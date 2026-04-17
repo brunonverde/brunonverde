@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou Bruno 👋
 
-<!--
-**brunonverde/brunonverde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
+💻 Focado em Back-End com Node.js
+📚 Estudando JavaScript, APIs REST e Banco de Dados
+🚀 Em busca da primeira oportunidade em tecnologia
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* JavaScript
+* Node.js
+* Git e GitHub
+* HTML
+* CSS
+
+## Projetos em destaque
+
+🔹 Calculadora JavaScript
+🔹 To-do List
+🔹 Em breve: API com Node.js
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/bruno-verde-b68448298/
