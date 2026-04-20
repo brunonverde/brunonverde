@@ -1,24 +1,30 @@
-# Olá, eu sou Bruno 👋
+Olá, eu sou o Bruno Verde 👋
+Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e construindo meu caminho no desenvolvimento backend.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas
-💻 Focado em Back-End com Node.js
-📚 Estudando JavaScript, APIs REST e Banco de Dados
-🚀 Em busca da primeira oportunidade em tecnologia
+🚀 Sobre mim
 
-## Tecnologias
+🎓 Cursando ADS — 2º período
+💡 Explorando o mundo do desenvolvimento backend
+🛠️ Atualmente aprendendo Node.js, Express e SQL
+🎯 Objetivo: conseguir meu primeiro estágio em desenvolvimento de software
+📍 Curitiba, PR
 
-* JavaScript
-* Node.js
-* Git e GitHub
-* HTML
-* CSS
 
-## Projetos em destaque
+🧰 Tecnologias que uso
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
 
-🔹 Calculadora JavaScript
-🔹 To-do List
-🔹 Em breve: API com Node.js
+📌 Projetos em destaque
+ProjetoDescriçãoTecnologiasCalculadoraCalculadora web estilo iPhone com glassmorphismHTML, CSS, JSTo Do ListLista de tarefas com localStorageHTML, CSS, JSAchados AppleComparador de preços de produtos Apple no BrasilHTML, CSS, JS
 
-## Contato
+📫 Contato
+Mostrar Imagem
+Mostrar Imagem
 
-LinkedIn: https://www.linkedin.com/in/bruno-verde-b68448298/
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunonverde&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonverde&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
