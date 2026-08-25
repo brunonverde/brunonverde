@@ -26,7 +26,7 @@ Atualmente, venho desenvolvendo projetos para praticar meus conhecimentos e cons
   <a href="https://github.com/brunonverde">
     <img src="https://img.shields.io/badge/GitHub-brunonverde-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/bruno-verde-b68448298/">
+  <a href="https://www.linkedin.com/in/bruno-verde/">
     <img src="https://img.shields.io/badge/LinkedIn-bruno%20verde%20b68448298-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -75,15 +75,8 @@ Alguns dos tipos de projetos que gosto de desenvolver:
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=brunonverde&show_icons=true&theme=tokyonight"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonverde&layout=compact&theme=tokyonight"
-  />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunonverde&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunonverde&layout=compact&theme=tokyonight" />
 </p>
 
 ---
